@@ -1,0 +1,8 @@
+name: Vanish2
+version: ${project.version}
+main: net.bnbdiscord.vanish2.Vanish2
+api-version: 1.13
+authors: [Max]
+commands:
+  vanish:
+    description: Vanish yourself!
